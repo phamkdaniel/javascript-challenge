@@ -102,3 +102,28 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode
+
+# Mac junk
+.DS_Store
+*.tmp
+
+# Word temporary
+~$.doc
+
+# Word Auto Backup File
+Backup of .doc
+
+# Excel temporary
+~$.xls
+
+# PowerPoint temporary
+~$.ppt
+
+# Visio autosave temporary files
+.~vsd
+
+# personal config file
+config.py
